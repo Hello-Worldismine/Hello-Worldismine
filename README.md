@@ -1,3 +1,4 @@
+<p>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -36,6 +37,7 @@
   <br>
   <br>
 </div>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello-Worldismine&theme=vue&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-Worldismine&layout=compact)
