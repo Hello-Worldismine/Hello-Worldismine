@@ -33,8 +33,7 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello-Worldismine&theme=vue&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-Worldismine&layout=compact)
+
 
 
 <a href="https://github.com/devxb/gitanimals">
